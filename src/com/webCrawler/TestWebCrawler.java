@@ -1,4 +1,4 @@
-package webCrawler;
+package com.webCrawler;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
