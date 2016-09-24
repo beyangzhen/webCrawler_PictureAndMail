@@ -14,6 +14,10 @@ import java.net.URLConnection;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ *   还可以使用jsoup来爬虫（解析html文档）
+ * 
+ * /
 public class TestWebCrawler {
 	public static void main(String[] args) throws IOException {
 		getPicture();    //爬取网站图片
