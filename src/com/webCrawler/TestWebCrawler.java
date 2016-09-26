@@ -15,7 +15,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- *   还可以使用jsoup来爬虫（解析html文档）
+ *   还可以使用jsoup 或 jodd 来爬虫（解析html文档）
  * 
  * /
 public class TestWebCrawler {
